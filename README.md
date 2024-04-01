@@ -9,4 +9,4 @@ Data Annotator @ Meta.Inc
 - Task 2C
 - Task 4V
 
-  ### Projects
+### Projects
